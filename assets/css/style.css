@@ -145,6 +145,14 @@ body {
   padding: 10px 18px 6px 6px;
 }
 
+.delete-icon {
+  cursor: pointer;
+}
+
+.delete-icon:hover {
+  stroke: #84A7C5;
+}
+
 .divider-task {
   border: 1px solid #b0b0b0b7;
 }
